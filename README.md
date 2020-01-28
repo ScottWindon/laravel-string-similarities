@@ -13,7 +13,7 @@ Some methods are usable in production, some are not, see usage for informations.
 You can install this package via composer:
 
 ``` bash
-$ composer require ScottWindon/laravel-string-similarities
+$ composer require scottwindon/laravel-string-similarities
 ```
 
 Then you have to install the package' service provider, _unless you are running Laravel >=5.5_ (it'll use package auto-discovery) :
